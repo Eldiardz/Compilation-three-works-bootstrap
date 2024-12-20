@@ -1,0 +1,128 @@
+.body{
+    height: 50rem;
+    background: black
+}
+.headerblock{
+    height: 7rem;
+}
+.nameofgame{
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-top: 2rem;
+    margin-left: 1rem;
+}
+.mainblock{
+    height: 98%;
+    margin-top: 2rem;
+    background-color:black
+}
+.main2block{
+    height: 100%;
+    background-color: black
+}
+.imageblock{
+    background-color: black;
+    height: 80%;
+}
+.mainimg{
+    border-radius: 5px;
+    margin-left: 1rem;
+    width: 100%;
+}
+.imagestape{
+    background-color: black;
+    height: 12%;
+    margin-top: 1rem;
+    justify-content: space-around;
+}
+.imagelist{
+    width: 13%;
+    border-radius: 7px;
+}
+.rightside{
+    height: 100%;
+    border-left: 3rem black solid;
+}
+.logoblock{
+    background-color: black;
+    height: 35%;
+    justify-content: center;
+    align-items: center;
+}
+.listblock{
+    background-color: black;
+    height: 60%;
+    margin-top: 1rem;
+    justify-content: space-around;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.listblockpart{
+    height: 11%;
+    
+}
+.buybutton{
+    text-decoration: none;
+    border: none;
+    height: 100%;
+    width: 95%;
+    border-radius: 5px;
+    background: rgb(230, 197, 11);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.mdass{
+    height: 13%;
+}
+.taggame{
+    background-color: rgb(114, 114, 114);
+    width: 10rem;
+    height: 2rem;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-weight: bolder;
+    font-size: 18px;
+}
+.wishlistbutton{
+    background-color: black;
+    width: 95%;
+    height: 100%;
+    border: 1px rgb(151, 149, 149) solid;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+.big{
+    height: 16%;
+}
+.logoside{
+    
+    align-items: center;
+    text-align: center;
+    color:white;
+    
+    justify-content: center;
+    margin-left: 1.5rem;
+}
+.leftlistblock{
+    align-items: center;
+    text-align: center;
+    color: grey;
+    font-size: 22px;
+}
+.mda{
+    gap: 1rem;
+    justify-content: center;
+}
+.imgs{
+    border-radius: 5px;
+    width: 100%;
+}
+.white{
+    border-bottom: 1px rgb(122, 120, 120) solid;
+}

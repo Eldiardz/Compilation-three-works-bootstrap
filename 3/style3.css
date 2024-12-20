@@ -1,0 +1,156 @@
+.body{
+    width: 96%;
+    margin: auto;
+    height: auto;
+}
+.header{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 1px solid #acce0d;
+}
+.title{
+    font-size: 35px;
+}
+.elementblock{
+    height: 23%;
+    margin-top: 2rem;
+}
+.typeblock{
+    height: 23%;
+}
+ol, ul, li {
+    list-style: none;
+    float: left;
+}
+.element{
+    float: left;
+     
+}
+.elementclass{
+    text-decoration: none;
+    color: rgb(64, 64, 240);    
+}
+.info{
+    position: relative;
+    padding-left: 16px;
+    display: inline-block;
+    vertical-align: bottom;
+}
+.info:before{
+    position: absolute;
+    bottom: 1px;
+    left: -5px;
+    content: '';
+    display: inline-block;
+    height: 19px;
+    width: 16px;
+    background: url(https://gen.jut.su/chakranature/chakra_classes_small.png) no-repeat;
+}
+
+.ico_water:before {
+    background-position: -64px 0;
+}
+.ico_handsharingan:before{
+    background-position: -798px 0;
+}
+.full_n_t_margin{
+    padding-left: 16px;
+}
+.elementclass1{
+    color: #ceb163;
+}
+.main{
+    width: 96%;
+    height: 70rem;
+    margin: auto;
+}
+.videoblock{
+    margin-top: 1.5rem;
+    height: 25rem;
+}
+.mainblock{
+    height: 42%;
+}
+.leftside{
+    height: 100%;
+}
+.rightside{
+    height: 100%;
+}
+.coolimgblock{
+    width: 70%;
+    height: 20rem;
+    margin: auto;
+    margin-top: 3rem;
+    border-style: dashed;
+    border-width: 3.5px;
+}
+.cockimage{
+    margin: auto;
+    height: 95%;
+    width: 95%;
+}
+.cockvideo{
+    display: flex;
+}
+.expositionblock{
+    margin: auto;
+    height: 40%;
+    width: 70%;
+    color: rgb(116, 113, 113);
+}
+.nick{
+    color: #75ab0e;
+    text-decoration: none;
+}
+.nick:hover{
+    text-decoration: underline;
+}
+.elementclass:hover{
+    text-decoration: underline;
+}
+.elementclass1:hover{
+    text-decoration: underline;
+}
+.videodesc{
+    height: 1.5rem;
+    color: rgb(116, 113, 113);
+}
+.underblock{
+    height: 35rem;
+}
+.titleofactions{
+    height: 1.5rem;
+}
+.actionsblock{
+    margin: auto;
+    width: 98%;
+    height: 96%;
+}
+.goidablocktext{
+    height: 3rem;
+    margin-top: 0.5rem;
+}
+.gol{
+    color: rgb(109, 108, 108);
+    font-weight: bold;
+}
+.warningtext{
+    margin-top: -1rem;
+}
+.handsblock{
+    height: 40%;
+    justify-content: space-between;
+}
+.handimage{
+    width: 17rem;
+    height: 12rem;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+}
+
+
+
+
+
